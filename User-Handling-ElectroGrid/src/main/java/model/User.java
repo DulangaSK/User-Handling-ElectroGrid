@@ -106,11 +106,11 @@ public class User {
 	        + email + "</td><td>" + NIC + "</td><td>" + address + "</td><td>"
 	            + mobileNumber + "</td><td>" + landpNumber + "</td><td> " + userName + "</td> </tr>";
 	        
-	       /* // buttons
+	       // buttons
 	         output += "<tr> <td colspan='2'><center><br/><input name='update' type='button' value='Update User'> <br/><br/>"
 	         + "<form method='post' action='#'>"
 	         + "<input name='remove' type='submit' value='Remove User'>"+ "<input name='itemID' type='hidden' value='" + userName 
-	         + "'>" + "</form></center></td> </tr>"; */
+	         + "'>" + "</form></center></td> </tr>";
 	         
 	       }
 	      
